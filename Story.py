@@ -1,4 +1,5 @@
 #This is a template for the python story
+#I added this comment
 def begin_story():
 	user_response = 0
 	print("You walk into an abandoned hospital and cant see anything, what do you do?")
